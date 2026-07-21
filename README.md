@@ -14,7 +14,7 @@ ESP32_OTA_using_ArduinoIDE/
 │
 ├── ESP32_OTA_ARDUINO_IDE_LED_BLINKING/
 │   └── ESP32_OTA_ARDUINO_IDE_LED_BLINKING.ino
-│
+├── images/
 └── README.md
 ```
 
